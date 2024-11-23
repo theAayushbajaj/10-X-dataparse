@@ -66,4 +66,4 @@ dataset = datasets.load_dataset("theaayushbajaj/10-X-raw-v1", split="train")
 ## Acknowledgments
 
 - Securities and Exchange Commission (SEC) for providing access to the original filings
-- [Additional acknowledgments to be added]
+- University of Notre Dame for compiled versions
